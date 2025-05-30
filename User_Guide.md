@@ -39,8 +39,8 @@ This application serves as an educational and professional tool for:
 - **Responsive Design**: Adapts to different content lengths
 
 ### Development Team
-- Christian Oliver Obrero
-- John Keano Del Rosario
+- [Christian Oliver Obrero](https://github.com/ChristianOliver203/)
+- [John Keano Del Rosario](https://github.com/yanoozxes/)
 - [John Paul Caigas](https://github.com/mra1k3r0/)
 
 ---

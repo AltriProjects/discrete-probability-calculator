@@ -149,8 +149,8 @@ All calculations include proper input validation and error handling to ensure ma
 
 ## Team Members
 
-- Christian Oliver Obrero
-- John Keano Del Rosario
+- [Christian Oliver Obrero](https://github.com/ChristianOliver203/)
+- [John Keano Del Rosario](https://github.com/yanoozxes/)
 - [John Paul Caigas](https://github.com/mra1k3r0/)
 
 ---
